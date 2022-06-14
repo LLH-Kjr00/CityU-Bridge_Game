@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(164,7): warning C4101: 'c_valid': 未參考的區域變數
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(327): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(396): warning C4172: 傳回區域變數或暫存的位址: c_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(337): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(430): warning C4172: 傳回區域變數或暫存的位址: c_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(343): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(350): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(474): warning C4715: 'c_chooseCard_1st': 不是所有控制路徑都傳回值
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(472): warning C4172: 傳回區域變數或暫存的位址: arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(488): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(503): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(511): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(520): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(527): warning C4172: 傳回區域變數或暫存的位址: p_arr
+C:\Users\user\source\repos\Assignment3_Q3_B\Assignment3_Q3_B\Source.cpp(532): warning C4172: 傳回區域變數或暫存的位址: p_arr
+  Assignment3_Q3_B.vcxproj -> C:\Users\user\source\repos\Assignment3_Q3_B\Debug\Assignment3_Q3_B.exe
